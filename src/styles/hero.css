@@ -1,0 +1,15 @@
+.text-gradient {
+    background: linear-gradient(to right, #facc15, #ef4444); /* dari kuning ke merah */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .typewriter {
+    display: inline-block;
+    min-width: 270px; /* Sesuaikan dengan kata terpanjang kamu */
+    height: 1.5em; /* Menjaga tinggi tetap */
+    overflow: hidden;
+    vertical-align: bottom;
+    white-space: nowrap;
+  }
+  
