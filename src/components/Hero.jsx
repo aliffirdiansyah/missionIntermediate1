@@ -17,7 +17,7 @@ const Hero = () => {
         <div className="row align-items-center g-5">
           <div className="col-md-6">
             <h1 className="display-4 fw-bold text-dark lh-sm">
-              <span className="text-gradient">VideoBelajar</span> IS HERE TO BE <br />
+              <span className="text-gradient">VideoBelajar</span> <br /> IS HERE TO BE 
               YOUR KEY TO GROWTH
             </h1>
             <a
